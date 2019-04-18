@@ -1,6 +1,6 @@
 # **Group-1**
 
-## **Electronic Band Structure**
+## **Gel Permeation**
 
 ## **I. Members**
 
