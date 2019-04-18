@@ -11,3 +11,6 @@
 - 許孟楷 (104022140)
 
 - 李偉志 (104020010)
+
+## **II. Goal**
+1. Create a simple classical model for gel permeation
