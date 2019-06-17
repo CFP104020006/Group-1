@@ -68,3 +68,19 @@
 
 ![pic](./draw.png)
 ![pic](./draw1.png)
+
+
+## **VII.Results**
+R = 橘色球半徑，x軸為時間
+![pic](./result1.png)
+將上圖峰值發生位置與R拿去做fitting，可以得到漂亮的exponential關係
+![pic](./peak.png)
+改變方塊高度，則沒什麼影響
+![pic](./H.png)
+
+## **VIII.Reference**
+-https://en.wikipedia.org/wiki/Elastic_collision
+
+-https://en.wikipedia.org/wiki/Gel_permeation_chromatography
+
+-https://www.agilent.com/cs/library/primers/Public/5990-6969EN%20GPC%20SEC%20Chrom%20Guide.pdf
