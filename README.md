@@ -72,7 +72,7 @@
 
 ## **VII.Results**
 R = 橘色球半徑
-![pic](./result.png)
+![pic](./result1.png)
 將上圖峰值發生位置與R拿去做fitting，可以得到漂亮的exponential關係
 ![pic](./peak.png)
 改變方塊高度，則沒什麼影響
