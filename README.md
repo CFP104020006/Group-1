@@ -71,7 +71,7 @@
 
 
 ## **VII.Results**
-R = 橘色球半徑
+R = 橘色球半徑，x軸為時間
 ![pic](./result1.png)
 將上圖峰值發生位置與R拿去做fitting，可以得到漂亮的exponential關係
 ![pic](./peak.png)
