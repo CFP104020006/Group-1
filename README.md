@@ -27,6 +27,14 @@
 ## **IV. Program Setup**
 
 模組:pygame
+ math
+ Matplotlib
+ time
+ Numpy
+ random
+ scipy.optimize
+ sys
+
 
 橘色球的排列與大小模擬多孔材料的內部結構與孔隙大小
 
